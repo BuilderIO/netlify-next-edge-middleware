@@ -1,15 +1,3 @@
-<br />
-<p align="center">
-  <img alt="BUILDER" src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fdcd545fcda9c4be796889bf072cf72e9" width="240" />
-</p>
-<h3 align="center">
-  Drag and drop page builder and CMS for React, Vue, Angular, and more
-</h3>
-<p align="center">
-  Integrate with any site or app. Drag and drop with the components already in your codebase. High speed, full control, no compromises
-</p>
-<br />
-
 # Next.js 12 Edge Middleware Demo with Builder.io
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/BuilderIO/netlify-next-edge-middleware"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
@@ -48,6 +36,18 @@ yarn dev
 
 
 ## Why Builder.io?
+<br />
+<p align="center">
+  <img alt="BUILDER" src="https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fdcd545fcda9c4be796889bf072cf72e9" width="240" />
+</p>
+<h3 align="center">
+  Drag and drop page builder and CMS for React, Vue, Angular, and more
+</h3>
+<p align="center">
+  Integrate with any site or app. Drag and drop with the components already in your codebase. High speed, full control, no compromises
+</p>
+<br />
+
 
 Hardcoding layouts for frequently changing content bottlenecks your team and makes releases messy
 
