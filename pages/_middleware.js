@@ -18,9 +18,7 @@ export default function middleware(request) {
       attributes: {
         ...getUserAttributes({ ...request.cookies, ...query }),
         domain: request.headers.get('Host') || '',
-        city: request.geo?.city || '',
         country: request.geo?.country || '',
-        searchBot: String(request.ua?.isBot)
       }
     })
     url.pathname = personlizedURL.rewritePath()
